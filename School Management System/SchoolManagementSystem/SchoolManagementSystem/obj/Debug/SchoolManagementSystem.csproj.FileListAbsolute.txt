@@ -1,0 +1,42 @@
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csc.exe
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\vbc.exe
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+C:\Users\ackaah kwadwo seth\Desktop\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Webz\Website Programs\School Management System\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
